@@ -16,7 +16,7 @@ sudo wget http://redrockdigimark.com/apachemirror/tomcat/tomcat-8/v8.5.31/bin/ap
 sudo wget https://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.41/bin/apache-tomcat-8.5.41.tar.gz
 
 ## Untar the file
-sudo tar -xf apache-tomcat-8.5.31.tar.gz
+sudo tar -xvzf apache-tomcat-8.5.31.tar.gz
 
 ## Rename the file
 sudo mv apache-tomcat-8.5.31 tomcat8
